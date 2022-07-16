@@ -1,0 +1,10 @@
+E:\MyCode\Standard\bin\Debug\netstandard2.0\Standard.deps.json
+E:\MyCode\Standard\bin\Debug\netstandard2.0\Standard.dll
+E:\MyCode\Standard\bin\Debug\netstandard2.0\Standard.pdb
+E:\MyCode\Standard\obj\Debug\netstandard2.0\Standard.csproj.AssemblyReference.cache
+E:\MyCode\Standard\obj\Debug\netstandard2.0\Standard.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCode\Standard\obj\Debug\netstandard2.0\Standard.AssemblyInfoInputs.cache
+E:\MyCode\Standard\obj\Debug\netstandard2.0\Standard.AssemblyInfo.cs
+E:\MyCode\Standard\obj\Debug\netstandard2.0\Standard.csproj.CoreCompileInputs.cache
+E:\MyCode\Standard\obj\Debug\netstandard2.0\Standard.dll
+E:\MyCode\Standard\obj\Debug\netstandard2.0\Standard.pdb
